@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jofftest]]></title>
         <description><![CDATA[jofftest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jofftest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 03:21:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jul 2016 03:24:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jofftest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This the first post.</p>]]></description>
+            <link>https://thegrid.ai/jofftest/this-the-first-post/index.html</link>
+            <guid isPermaLink="false">bc87ef9f-8021-4f50-8811-cf15661eef19</guid>
+            <pubDate>Tue, 05 Jul 2016 03:24:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is the second post</p>]]></description>
-            <link>undefinedthis-is-the-second-post/index.html</link>
+            <link>https://thegrid.ai/jofftest/this-is-the-second-post/index.html</link>
             <guid isPermaLink="false">c51fd855-ee21-403d-b551-0c78245886d3</guid>
             <pubDate>Tue, 05 Jul 2016 03:21:24 GMT</pubDate>
         </item>
