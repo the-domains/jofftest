@@ -1,7 +1,7 @@
 name: jofftest
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.1215478980448097
+typography_spectrum: 0.12508
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#ecc6bf'
     - '#943564'
   brandStrength: 0.5502517779823393
-  lightness: 0.9903171192854643
+  lightness: 0.9375
   saturation: 0.45272912783548236
   rhythmicContrast: 0.9631806374527514
 purpose: []
