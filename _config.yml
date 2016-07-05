@@ -1,0 +1,28 @@
+name: jofftest
+favicon: null
+layout_spectrum: 0.9144200298469514
+typography_spectrum: 0.1215478980448097
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5502517779823393
+  lightness: 0.9903171192854643
+  saturation: 0.45272912783548236
+  rhythmicContrast: 0.9631806374527514
+purpose: []
